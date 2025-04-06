@@ -1,0 +1,15 @@
+.information {
+	font-size: 36px;
+	line-height: 1.5;
+	font-weight: 400;
+	margin-bottom: 20px;
+	color: #04aa6d;
+}
+
+.activeWin {
+	color: red;
+}
+
+.activeDraw {
+	color: blue;
+}
